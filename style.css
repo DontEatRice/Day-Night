@@ -9,10 +9,15 @@ h1 {
     top: 10vh;
     color: white;
     font-family: monospace;
+    transition: 0.5s;
 }
 
-body {
+div {
     background-image: url("./rocks.jpg");
     background-size: cover;
-    
+    background-position: 50% 50%;
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    transition: 0.5s;
 }
