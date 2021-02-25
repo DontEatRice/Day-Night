@@ -2,3 +2,17 @@
     padding: 0;
     margin: 0;
 }
+
+h1 {
+    position: absolute;
+    right: 10vw;
+    top: 10vh;
+    color: white;
+    font-family: monospace;
+}
+
+body {
+    background-image: url("./rocks.jpg");
+    background-size: cover;
+    
+}
